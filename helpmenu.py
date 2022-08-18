@@ -42,41 +42,6 @@ i) {hn}hang <counter> (you can reply any message if you want bot to reply that m
 
 **©️ @TeamGladiators**
 """
-curse_menu = f"""
-**ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
-
-
-**{hn}curse:** Activates curse on any individual user for given range.
-Syntax:
-i) {hn}curse @Telegram <counter>
-ii) {hn}curse 10 <replying to anyone>
-
-**{hn}ucurse:** Activates curse on the user for infinite range.
-Syntax:
-i) {hn}ucurse @telegram
-ii) {hn}ucurse <replying to anyone>
-
-**{hn}multicurse:** Activates curse on many users for given range.
-Syntax:
-i) {hn}multicurse <counter> <username> <username> <username>...
-
-**{hn}umulticurse:** Activates curse on many users for infinite range.
-Syntax:
-i) {hn}umulticurse <username> <username> <username>...
-
-**{hn}replycurse:** Activates reply and curse on the user!!
-Syntax:
-i) {hn}replycurse <replying to anyone>
-ii) {hn}dreplycurse <username>
-
-**{hn}dreplycurse:** Deactivates reply and curse on the user!!
-Syntax:
-i) {hn}dreplycurse <replying to anyone>
-ii) {hn}dreplycurse <username>
-
-
-**©️ @TeamGladiators**
-"""
 sudo_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
 
