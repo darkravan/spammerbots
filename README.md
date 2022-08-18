@@ -22,7 +22,7 @@
 
 ### 🧿Gᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
   
-  [![Run on Repl.it](https://repl.it/badge/github/sherlock-project/sherlock)](https://replit.com/@Acinonyx/TELETHON-SESSSION-GENERATOR#main.py)
+  [![Run on Repl.it](https://replit.com/badge/github/Harpia-Vieillot/Discord-Nitro)](https://replit.com/@Acinonyx/TELETHON-SESSSION-GENERATOR#main.py)
 
 
 ## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs
