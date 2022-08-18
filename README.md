@@ -22,7 +22,7 @@
 
 ### 🧿Gᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
   
-  [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Acinonyx/TELETHON-SESSSION-GENERATOR#main.py)
+  [![Run on Repl.it](https://repl.it/badge/github/sherlock-project/sherlock)](https://replit.com/@Acinonyx/TELETHON-SESSSION-GENERATOR#main.py)
 
 
 ## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs
@@ -39,6 +39,11 @@
 ☞ `DEV_USERS` - User id of all dev users separated by space " ".<br>
 ☞ `ALIVE_MESSAGE` - Message to be displayed while using alive command.<br>
 ☞ `ALIVE_MEDIA` - Telegraph link of media(photo/video/gif) to be displayed while using alive command.<br>
+
+
+## Pro-Tip: Bad spammerbots
+  
+  Get bad version of spammerbots with curses from this [![repository](https://github.com/Gladiator-007/spammerbots-1)
 
 ```
 If you are taking code from this repository without a
