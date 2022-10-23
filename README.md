@@ -20,12 +20,12 @@
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gladiators-Projects/spammerbots)
 
 
-### 🧿Gᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
+### 🧿Gᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ !
   
   [![Run on Repl.it](https://replit.com/badge/github/Harpia-Vieillot/Discord-Nitro)](https://replit.com/@Acinonyx/TELETHON-SESSSION-GENERATOR#main.py)
 
 
-## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs
+## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs (Don't Forget These!)
 
 ☞ `API_ID` - Get your API_ID from [my.telegram.org](https://my.telegram.org/)<br>
 ☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/)<br>
@@ -41,7 +41,7 @@
 ☞ `ALIVE_MEDIA` - Telegraph link of media(photo/video/gif) to be displayed while using alive command.<br>
 
 
-## Pro-Tip: Bad spammerbots
+## Pro-Tip: Badass spammerbots
   
   Get bad version of spammerbots with curses from this [repository](https://github.com/Gladiator-007/spammerbots-1).
   
