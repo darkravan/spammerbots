@@ -51,4 +51,5 @@
 If you are taking code from this repository without a
 fork, then atleast give credits to our hardwork & star
 to this repository. ❤️
+Also don't forget to make PR if you find any feature missing and want the same to be added.
 ```
