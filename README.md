@@ -52,4 +52,5 @@ If you are taking code from this repository without a
 fork, then atleast give credits to our hardwork & star
 to this repository. ❤️
 Also don't forget to make PR if you find any feature missing and want the same to be added.
+You may also look forward to join https://t.me/Gladiators_Projects on Telegram if you wish to get updates regarding future projects by TeamGladiators
 ```
