@@ -1,4 +1,4 @@
-<!--This Bot is Made By Gladitors Project-->
+<!--Gladitors Project-->
 <p align="center">
   <img src="resources/Gladiators.jpeg" alt="Logo">
 </p>
