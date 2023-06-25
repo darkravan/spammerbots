@@ -43,7 +43,7 @@
 
 ## Pro-Tip: Badass spammerbots
   
-  Get bad version of spammerbots with curses from this [repository](https://github.com/Gladiator-007/spammerbots-1).
+  Get bad version of spammerbots with curses from this [repository](https://github.com/darkravan/spammerbots-1).
   
 
 
